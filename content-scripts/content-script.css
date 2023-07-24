@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    background: #3f434a;
+    color: white;
+    position: fixed;
+    width: 100%;
+    padding: 2rem;
+}
+
+#container button {
+    background-color: #175291;
+    color: white;
+    padding: 0.5rem 1rem;
+    font : 20;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#container #btn:hover {
+    background-color: #c2babb;
+}

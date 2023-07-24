@@ -1,0 +1,41 @@
+body {
+    background: #2a2c30;
+    color: white;
+    width: 400px;
+    height: 100px;
+    margin: 2rem;
+}
+
+h1 {
+      text-align: center; /* Center the text horizontally within the h1 element */
+  }
+
+#btn-start {
+    background-color: #175291;
+    color: white;
+    padding: 0.5rem 1rem;
+    font: 20;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-right: 10px; /* Add right margin to create space between buttons */
+}
+
+#btn-stop {
+    background-color: #175291;
+    color: white;
+    padding: 0.5rem 1rem;
+    font: 20;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+#btn-start:hover {
+    background-color: #c2babb;
+}
+
+#btn-stop:hover {
+    background-color: #c2babb;
+}
+
